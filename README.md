@@ -12,8 +12,8 @@
   <a href="https://rohitmishra-devops.github.io/rohitmishra-portfolio/">
     <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-111111?style=for-the-badge" />
   </a>
-  <a href="https://github.com/rohitmishra-devops">
-    <img src="https://img.shields.io/badge/💻%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rohit-mishra-8361853b3/">
+    <img src="https://img.shields.io/badge/💻%20LINKDIN-181717?style=for-the-badge&logo=LINKDIN&logoColor=white" />
   </a>
 </p>
 
